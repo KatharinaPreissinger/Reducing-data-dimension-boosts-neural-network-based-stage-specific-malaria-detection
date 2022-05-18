@@ -1,5 +1,5 @@
 # Reducing-data-dimension-boosts-neural-network-based-stage-specific-malaria-detection
-# Supplementary data
+### Supplementary data
 for "Reducing data dimension boosts neural network-based stage-specific malaria detection"
-# Data citation
+### Data citation
 
