@@ -7,5 +7,3 @@
   * "NN_AFM" contains the neural network, which was used to classify the AFM microscopy images
   * "NN_FM" contains the neural network, which was used to classify the fluorescence microscopy images
   * the dataset for testing the networks is located at https://zenodo.org/record/6866337
-* Data citation
-
